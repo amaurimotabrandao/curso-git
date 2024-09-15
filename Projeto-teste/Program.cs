@@ -6,7 +6,7 @@ namespace Projeto_teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bora de novo haaaaaaaaa");
+            Console.WriteLine("bora de novo haaaaaa");
         }
     }
 }
